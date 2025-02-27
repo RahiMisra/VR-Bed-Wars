@@ -7,3 +7,7 @@
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
+VR[[:space:]]Mult[[:space:]]Template/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+VR[[:space:]]Mult[[:space:]]Template/Library/PackageCache/com.unity.burst*/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+VR[[:space:]]Mult[[:space:]]Template/Library/PackageCache/com.unity.serv*/libvivoxsdk-simulator.a filter=lfs diff=lfs merge=lfs -text
+VR[[:space:]]Mult[[:space:]]Template/Library/PackageCache/com.unity.services.vivox*/libvivoxsdk.a filter=lfs diff=lfs merge=lfs -text
