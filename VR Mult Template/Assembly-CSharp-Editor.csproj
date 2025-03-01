@@ -1460,6 +1460,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp.csproj">
+      <Project>{86FC3606-A39F-281E-AEFC-A70C69001778}</Project>
+      <Name>Assembly-CSharp</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor.csproj">
       <Project>{C186002F-5600-F296-AE65-8D1F519589FD}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor</Name>
