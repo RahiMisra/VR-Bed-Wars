@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRMP", "VRMP.csproj", "{ED1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard", "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.csproj", "{16ED986B-B9C7-4A8E-D40D-1C88BFCA777F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{86FC3606-A39F-281E-AEFC-A70C69001778}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.Hands", "Unity.XR.Interaction.Toolkit.Samples.Hands.csproj", "{91F98900-461A-A2AA-3976-82C17CD8B1C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{C48EDBB8-82D3-A0C3-ECD2-37F73F238B39}"
@@ -35,6 +37,10 @@ Global
 		{16ED986B-B9C7-4A8E-D40D-1C88BFCA777F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16ED986B-B9C7-4A8E-D40D-1C88BFCA777F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16ED986B-B9C7-4A8E-D40D-1C88BFCA777F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FC3606-A39F-281E-AEFC-A70C69001778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FC3606-A39F-281E-AEFC-A70C69001778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FC3606-A39F-281E-AEFC-A70C69001778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FC3606-A39F-281E-AEFC-A70C69001778}.Release|Any CPU.Build.0 = Release|Any CPU
 		{91F98900-461A-A2AA-3976-82C17CD8B1C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91F98900-461A-A2AA-3976-82C17CD8B1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91F98900-461A-A2AA-3976-82C17CD8B1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
