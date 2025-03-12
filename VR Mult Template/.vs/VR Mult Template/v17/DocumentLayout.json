@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\migue.LAPTOP-CKBH8FJI\\OneDrive\\Desktop\\VRPRoj\\VR-Bed-Wars\\VR Mult Template\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|c:\\users\\migue.laptop-ckbh8fji\\onedrive\\desktop\\vrproj\\vr-bed-wars\\vr mult template\\assets\\levelselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\levelselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LevelSelector.cs",
-              "DocumentMoniker": "C:\\Users\\migue.LAPTOP-CKBH8FJI\\OneDrive\\Desktop\\VRPRoj\\VR-Bed-Wars\\VR Mult Template\\Assets\\LevelSelector.cs",
-              "RelativeDocumentMoniker": "Assets\\LevelSelector.cs",
-              "ToolTip": "C:\\Users\\migue.LAPTOP-CKBH8FJI\\OneDrive\\Desktop\\VRPRoj\\VR-Bed-Wars\\VR Mult Template\\Assets\\LevelSelector.cs",
-              "RelativeToolTip": "Assets\\LevelSelector.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAIwA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T05:06:26.291Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
