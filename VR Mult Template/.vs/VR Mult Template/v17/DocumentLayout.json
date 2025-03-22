@@ -1,12 +1,121 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\vr-bed-wars\\vr mult template\\assets\\scripts\\interactables\\bedscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\bedscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\vr-bed-wars\\vr mult template\\assets\\scripts\\game\\gameplayscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gameplayscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\interactables\\destructablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\destructablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\interactables\\interactcubescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\interactcubescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\weapons\\weaponscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weaponscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\player scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BedScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\BedScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\BedScript.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\BedScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\BedScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:05:50.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameplayScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Game\\GameplayScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GameplayScript.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Game\\GameplayScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\GameplayScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:55:53.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InteractCubeScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\InteractCubeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\InteractCubeScript.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\InteractCubeScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\InteractCubeScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA6wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:46:20.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestructableScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\DestructableScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\DestructableScript.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\DestructableScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\DestructableScript.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:17:18.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeaponScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Weapons\\WeaponScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponScript.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Weapons\\WeaponScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:07:44.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Player Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerScript.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Player Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\PlayerScript.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:02:32.221Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
