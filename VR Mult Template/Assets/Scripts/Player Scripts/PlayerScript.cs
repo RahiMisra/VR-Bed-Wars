@@ -7,6 +7,7 @@ public class Player : MonoBehaviour
     public float shield = 50;
     public float maxShield = 50;
     public float stamina = 100;
+    public float maxStamina = 100;
     public int team;
     public bool isDead = false;
 

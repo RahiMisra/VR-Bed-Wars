@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\vr-bed-wars\\vr mult template\\assets\\scripts\\game\\gameplayscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gameplayscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\player scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\interactables\\interactcubescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\interactcubescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\interactables\\destructablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\destructablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\vr-bed-wars\\vr mult template\\assets\\scripts\\weapons\\weaponscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\interactables\\bedscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\bedscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\game\\gameplayscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gameplayscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\vr-bed-wars\\vr mult template\\assets\\scripts\\ui\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\vr-bed-wars\\vr mult template\\assets\\scripts\\player scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\weapons\\weaponscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weaponscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\assets\\scripts\\interactables\\interactcubescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC3606-A39F-281E-AEFC-A70C69001778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\interactcubescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +38,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "PlayerUI.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\UI\\PlayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerUI.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\UI\\PlayerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PlayerUI.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA0wFsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:41:43.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BedScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\BedScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\BedScript.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\BedScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\BedScript.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:05:50.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GameplayScript.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Game\\GameplayScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GameplayScript.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Game\\GameplayScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\Game\\GameplayScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T05:55:53.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "InteractCubeScript.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\InteractCubeScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\InteractCubeScript.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\InteractCubeScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\Interactables\\InteractCubeScript.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA6wBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T04:46:20.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T04:46:20.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DestructableScript.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\DestructableScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\DestructableScript.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Interactables\\DestructableScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\Interactables\\DestructableScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T04:17:18.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WeaponScript.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Weapons\\WeaponScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponScript.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Weapons\\WeaponScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T04:07:44.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T04:07:44.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PlayerScript.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Player Scripts\\PlayerScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerScript.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VR-Bed-Wars\\VR Mult Template\\Assets\\Scripts\\Player Scripts\\PlayerScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\PlayerScript.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T00:02:32.221Z",
               "EditorCaption": ""

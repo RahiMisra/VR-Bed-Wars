@@ -71,6 +71,7 @@
     <Compile Include="Assets\Scripts\Interactables\DestructableScript.cs" />
     <Compile Include="Assets\Scripts\Interactables\BedScript.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerScript.cs" />
+    <Compile Include="Assets\Scripts\UI\PlayerUI.cs" />
     <Compile Include="Assets\Scripts\Interactables\InteractCubeScript.cs" />
   </ItemGroup>
   <ItemGroup>
