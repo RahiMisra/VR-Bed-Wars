@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '6000.0/staging' branch; Version is '6000.0.34f1 (5ab2d9ed9190) revision 5944025'; Using compiler version '193933523'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 15693 MB
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 8007 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\6000.0.34f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/migue.LAPTOP-CKBH8FJI/OneDrive/Desktop/VRPRoj/VR-Bed-Wars/VR Mult Template
+C:/Users/user/Documents/GitHub/VR-Bed-Wars/VR Mult Template
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50045
+60993
 -job-worker-count
-7
+1
 -background-job-worker-count
 8
 -gc-helper-count
 1
-Successfully changed project path to: C:/Users/migue.LAPTOP-CKBH8FJI/OneDrive/Desktop/VRPRoj/VR-Bed-Wars/VR Mult Template
-C:/Users/migue.LAPTOP-CKBH8FJI/OneDrive/Desktop/VRPRoj/VR-Bed-Wars/VR Mult Template
+Successfully changed project path to: C:/Users/user/Documents/GitHub/VR-Bed-Wars/VR Mult Template
+C:/Users/user/Documents/GitHub/VR-Bed-Wars/VR Mult Template
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,15 +59,15 @@ C:/Users/migue.LAPTOP-CKBH8FJI/OneDrive/Desktop/VRPRoj/VR-Bed-Wars/VR Mult Templ
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [21512]  Target information:
+Player connection [18068]  Target information:
 
-Player connection [21512]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 177498324 [EditorId] 177498324 [Version] 1048832 [Id] WindowsEditor(7,Mr-Screen) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [18068]  * "[IP] 172.24.208.1 [Port] 0 [Flags] 2 [Guid] 2158887487 [EditorId] 2158887487 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-LM1G935) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [21512]  * "[IP] 10.40.164.214 [Port] 0 [Flags] 2 [Guid] 177498324 [EditorId] 177498324 [Version] 1048832 [Id] WindowsEditor(7,Mr-Screen) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [18068]  * "[IP] 192.168.1.232 [Port] 0 [Flags] 2 [Guid] 2158887487 [EditorId] 2158887487 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-LM1G935) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [21512] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [21512] Host joined alternative multi-casting on [225.0.0.222:34997]...
-JobSystem: Creating JobQueue using job-worker-count value 7
+Player connection [18068] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [18068] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 1
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -78,68 +78,65 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 46.90 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 4.28 ms.
+Refreshing native plugins compatible for Editor in 264.55 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 31.87 ms.
 Initialize engine version: 6000.0.34f1 (5ab2d9ed9190)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/migue.LAPTOP-CKBH8FJI/OneDrive/Desktop/VRPRoj/VR-Bed-Wars/VR Mult Template/Assets
+[Subsystems] Discovering subsystems at path C:/Users/user/Documents/GitHub/VR-Bed-Wars/VR Mult Template/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon(TM) Graphics (ID=0x164c)
-    Vendor:   ATI
-    VRAM:     7846 MB
-    Driver:   31.0.12044.3
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+    Driver:   10.18.10.4358
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56064
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.014413 seconds.
-- Loaded All Assemblies, in  1.030 seconds
+Registered in 0.021305 seconds.
+- Loaded All Assemblies, in  2.968 seconds
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 516 ms
-Native extension for UWP target not found
+Android Extension - Scanning For ADB Devices 2211 ms
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.532 seconds
-Domain Reload Profiling: 2553ms
-	BeginReloadAssembly (324ms)
+- Finished resetting the current domain, in  6.173 seconds
+Domain Reload Profiling: 9125ms
+	BeginReloadAssembly (1079ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (85ms)
-	RebuildNativeTypeToScriptingClass (32ms)
-	initialDomainReloadingComplete (137ms)
-	LoadAllAssembliesAndSetupDomain (443ms)
-		LoadAssemblies (318ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (184ms)
+	RebuildNativeTypeToScriptingClass (59ms)
+	initialDomainReloadingComplete (358ms)
+	LoadAllAssembliesAndSetupDomain (1266ms)
+		LoadAssemblies (1061ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (433ms)
-			TypeCache.Refresh (430ms)
-				TypeCache.ScanAssembly (402ms)
+		AnalyzeDomain (1237ms)
+			TypeCache.Refresh (1229ms)
+				TypeCache.ScanAssembly (1159ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (1532ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (6179ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1393ms)
+		SetupLoadedEditorAssemblies (5790ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (797ms)
-			SetLoadedEditorAssemblies (7ms)
-			BeforeProcessingInitializeOnLoad (121ms)
-			ProcessInitializeOnLoadAttributes (308ms)
-			ProcessInitializeOnLoadMethodAttributes (159ms)
+			InitializePlatformSupportModulesInManaged (3138ms)
+			SetLoadedEditorAssemblies (31ms)
+			BeforeProcessingInitializeOnLoad (444ms)
+			ProcessInitializeOnLoadAttributes (1583ms)
+			ProcessInitializeOnLoadMethodAttributes (593ms)
 			AfterProcessingInitializeOnLoad (0ms)
-			EditorAssembliesLoaded (0ms)
+			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
 ========================================================================
@@ -147,14 +144,12 @@ Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  2.689 seconds
+- Loaded All Assemblies, in  5.609 seconds
 'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 38.56 ms, found 11 plugins.
+Refreshing native plugins compatible for Editor in 57.45 ms, found 13 plugins.
 Native extension for Android target not found
-Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
@@ -165,7 +160,7 @@ Package Manager log level set to [2]
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.TypeInitializationException: The type initializer for 'UnityEditor.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor.SpatialKeyboardSampleProjectValidation' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.CoreUtils.Editor.PackageVersionUtility.UpdatePackageVersions () [0x00034] in .\Library\PackageCache\com.unity.xr.core-utils\Editor\ProjectValidation\PackageVersionUtility.cs:46 
   at Unity.XR.CoreUtils.Editor.PackageVersionUtility.GetPackageVersion (System.String packageName) [0x00011] in .\Library\PackageCache\com.unity.xr.core-utils\Editor\ProjectValidation\PackageVersionUtility.cs:67 
-  at UnityEditor.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor.SpatialKeyboardSampleProjectValidation..cctor () [0x00023] in C:\Users\migue.LAPTOP-CKBH8FJI\OneDrive\Desktop\VRPRoj\VR-Bed-Wars\VR Mult Template\Assets\Samples\XR Interaction Toolkit\3.0.7\Spatial Keyboard\Editor\Scripts\SpatialKeyboardSampleProjectValidation.cs:39 
+  at UnityEditor.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor.SpatialKeyboardSampleProjectValidation..cctor () [0x00023] in C:\Users\user\Documents\GitHub\VR-Bed-Wars\VR Mult Template\Assets\Samples\XR Interaction Toolkit\3.0.7\Spatial Keyboard\Editor\Scripts\SpatialKeyboardSampleProjectValidation.cs:39 
    --- End of inner exception stack trace ---
   at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
   at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <ed969b0e627d471da4848289f9c322df>:0 
@@ -188,132 +183,126 @@ Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  2.555 seconds
-Domain Reload Profiling: 5220ms
-	BeginReloadAssembly (454ms)
+- Finished resetting the current domain, in  9.723 seconds
+Domain Reload Profiling: 15268ms
+	BeginReloadAssembly (1085ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (15ms)
+		DisableScriptedObjects (41ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (71ms)
-	RebuildCommonClasses (98ms)
-	RebuildNativeTypeToScriptingClass (40ms)
-	initialDomainReloadingComplete (185ms)
-	LoadAllAssembliesAndSetupDomain (1887ms)
-		LoadAssemblies (1004ms)
+		CreateAndSetChildDomain (189ms)
+	RebuildCommonClasses (164ms)
+	RebuildNativeTypeToScriptingClass (41ms)
+	initialDomainReloadingComplete (391ms)
+	LoadAllAssembliesAndSetupDomain (3862ms)
+		LoadAssemblies (2597ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (1157ms)
-			TypeCache.Refresh (700ms)
-				TypeCache.ScanAssembly (651ms)
-			BuildScriptInfoCaches (380ms)
-			ResolveRequiredComponents (70ms)
-	FinalizeReload (2556ms)
+		AnalyzeDomain (1900ms)
+			TypeCache.Refresh (834ms)
+				TypeCache.ScanAssembly (746ms)
+			BuildScriptInfoCaches (821ms)
+			ResolveRequiredComponents (219ms)
+	FinalizeReload (9725ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (2169ms)
+		SetupLoadedEditorAssemblies (5562ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (35ms)
-			SetLoadedEditorAssemblies (8ms)
-			BeforeProcessingInitializeOnLoad (345ms)
-			ProcessInitializeOnLoadAttributes (1033ms)
-			ProcessInitializeOnLoadMethodAttributes (735ms)
-			AfterProcessingInitializeOnLoad (11ms)
-			EditorAssembliesLoaded (1ms)
+			InitializePlatformSupportModulesInManaged (65ms)
+			SetLoadedEditorAssemblies (30ms)
+			BeforeProcessingInitializeOnLoad (863ms)
+			ProcessInitializeOnLoadAttributes (2525ms)
+			ProcessInitializeOnLoadMethodAttributes (2035ms)
+			AfterProcessingInitializeOnLoad (43ms)
+			EditorAssembliesLoaded (2ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (18ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 33.06 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.20 ms.
-Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 9006 unused Assets / (5.8 MB). Loaded Objects now: 9675.
-Memory consumption went from 198.1 MB to 192.3 MB.
-Total: 26.005300 ms (FindLiveObjects: 1.921300 ms CreateObjectMapping: 3.155300 ms MarkObjects: 12.583000 ms  DeleteObjects: 8.342800 ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 316.65 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.30 ms.
+Unloading 214 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9515 unused Assets / (3.6 MB). Loaded Objects now: 10176.
+Memory consumption went from 189.9 MB to 186.3 MB.
+Total: 88.071700 ms (FindLiveObjects: 4.402900 ms CreateObjectMapping: 5.326700 ms MarkObjects: 65.614700 ms  DeleteObjects: 12.717200 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 1118048.856508 seconds.
-  path: Assets/LowPolyFantasyBundle
-  artifactKey: Guid(4e3174fb4272aea469a3c9cf5f982766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPolyFantasyBundle using Guid(4e3174fb4272aea469a3c9cf5f982766) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a777d9ee32c0cde2325da630ac4480fe') in 0.047463 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  6.141 seconds
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 104.56 ms, found 13 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.TypeInitializationException: The type initializer for 'UnityEditor.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor.SpatialKeyboardSampleProjectValidation' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.CoreUtils.Editor.PackageVersionUtility.UpdatePackageVersions () [0x00034] in .\Library\PackageCache\com.unity.xr.core-utils\Editor\ProjectValidation\PackageVersionUtility.cs:46 
+  at Unity.XR.CoreUtils.Editor.PackageVersionUtility.GetPackageVersion (System.String packageName) [0x00011] in .\Library\PackageCache\com.unity.xr.core-utils\Editor\ProjectValidation\PackageVersionUtility.cs:67 
+  at UnityEditor.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor.SpatialKeyboardSampleProjectValidation..cctor () [0x00023] in C:\Users\user\Documents\GitHub\VR-Bed-Wars\VR Mult Template\Assets\Samples\XR Interaction Toolkit\3.0.7\Spatial Keyboard\Editor\Scripts\SpatialKeyboardSampleProjectValidation.cs:39 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <ed969b0e627d471da4848289f9c322df>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <ed969b0e627d471da4848289f9c322df>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <ed969b0e627d471da4848289f9c322df>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x00056] in <a91c06e683e34bc9beda6e2852c04783>:0 
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
-========================================================================
-Received Import Request.
-  Time since last request: 17.306578 seconds.
-  path: Assets/PolysplitGames/LowPolyMedievalFantasyHeroes
-  artifactKey: Guid(5b4dfcad3cb1b4149886dda043592954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolysplitGames/LowPolyMedievalFantasyHeroes using Guid(5b4dfcad3cb1b4149886dda043592954) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '759bca321d331c8f77dbd9f16bd87f2a') in 0.0010387 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in 20.230 seconds
+Domain Reload Profiling: 26350ms
+	BeginReloadAssembly (837ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (44ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (191ms)
+	RebuildCommonClasses (246ms)
+	RebuildNativeTypeToScriptingClass (87ms)
+	initialDomainReloadingComplete (237ms)
+	LoadAllAssembliesAndSetupDomain (4696ms)
+		LoadAssemblies (3281ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1817ms)
+			TypeCache.Refresh (41ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1696ms)
+			ResolveRequiredComponents (61ms)
+	FinalizeReload (20247ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (17760ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (61ms)
+			SetLoadedEditorAssemblies (47ms)
+			BeforeProcessingInitializeOnLoad (1821ms)
+			ProcessInitializeOnLoadAttributes (6649ms)
+			ProcessInitializeOnLoadMethodAttributes (8898ms)
+			AfterProcessingInitializeOnLoad (270ms)
+			EditorAssembliesLoaded (15ms)
+		ExecutionOrderSort2 (1ms)
+		AwakeInstancesAfterBackupRestoration (412ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 782.58 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 2.44 ms.
+Unloading 53 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9513 unused Assets / (3.5 MB). Loaded Objects now: 10192.
+Memory consumption went from 344.9 MB to 341.4 MB.
+Total: 134.353600 ms (FindLiveObjects: 30.788800 ms CreateObjectMapping: 5.391100 ms MarkObjects: 86.541900 ms  DeleteObjects: 11.627100 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 18.889252 seconds.
-  path: Assets/LowPolyMedievalFantasyHeroes/BaseCharacters
-  artifactKey: Guid(f5e3a23a1affd174594b47ad50b265b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPolyMedievalFantasyHeroes/BaseCharacters using Guid(f5e3a23a1affd174594b47ad50b265b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c4c3a3cd6f87b8e205b42d01caee791') in 0.0009402 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.330649 seconds.
-  path: Assets/LowPolyMedievalFantasyHeroes/BaseCharacters/prefabs
-  artifactKey: Guid(1b450f267d9bf78409a7b22e41a99cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPolyMedievalFantasyHeroes/BaseCharacters/prefabs using Guid(1b450f267d9bf78409a7b22e41a99cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86af46fc127426780341b20afed060d1') in 0.0009831 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.242681 seconds.
-  path: Assets/LowPolyMedievalFantasyHeroes/BaseCharacters/BaseFemale.fbx
-  artifactKey: Guid(aeb00aa9822ab824699f23ba3178d813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPolyMedievalFantasyHeroes/BaseCharacters/BaseFemale.fbx using Guid(aeb00aa9822ab824699f23ba3178d813) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd7ccbb6f2cba903defd76ea019a890ce') in 3.8735989 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 435
-
-========================================================================
-Received Import Request.
-  Time since last request: 113.544162 seconds.
-  path: Assets/LowPolyFantasyBundle/FantasyForest/FantasyForest_2021.3_SRP_1.02.unitypackage
-  artifactKey: Guid(80b0351719e9d3a41a24683fc92915da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPolyFantasyBundle/FantasyForest/FantasyForest_2021.3_SRP_1.02.unitypackage using Guid(80b0351719e9d3a41a24683fc92915da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db85566545dd085244b9c2341bb3cf5c') in 0.0042325 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.618263 seconds.
-  path: Assets/LowPolyFantasyBundle/LowPolyDungeons/LowPolyDungeons_2020.3.0_SRP_v1.24.unitypackage
-  artifactKey: Guid(41deb4ede77bd1e4a929f818930a6913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPolyFantasyBundle/LowPolyDungeons/LowPolyDungeons_2020.3.0_SRP_v1.24.unitypackage using Guid(41deb4ede77bd1e4a929f818930a6913) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c73e2a373c4dee8b7efb9f69c6e66c6e') in 0.0036102 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 37.206730 seconds.
-  path: Assets/LowPolyDungeons/LowPolyDungeons_2020.3.0_URP_v1.24.unitypackage
-  artifactKey: Guid(47f80b2df747dfe4fbbbc7df9664c8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPolyDungeons/LowPolyDungeons_2020.3.0_URP_v1.24.unitypackage using Guid(47f80b2df747dfe4fbbbc7df9664c8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8a6d6d70b30c42a196083a3cc65bfc9') in 0.0022107 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.694767 seconds.
-  path: Assets/LowPolyDungeons/LowPolyDungeons_2020.3.0_HDRP_v1.24.unitypackage
-  artifactKey: Guid(b2bbee6cb01dd7a40b0d2d4de04cef38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPolyDungeons/LowPolyDungeons_2020.3.0_HDRP_v1.24.unitypackage using Guid(b2bbee6cb01dd7a40b0d2d4de04cef38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3829ee2f4fa989a51f9f1ef659e36af') in 0.0023699 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 34.869889 seconds.
-  path: Assets/FantasyValley/Scenes/FantasyValley_Overview.unity
-  artifactKey: Guid(dc08bbeef92438349ab6c59c82666154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FantasyValley/Scenes/FantasyValley_Overview.unity using Guid(dc08bbeef92438349ab6c59c82666154) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '71cf59dd6181a117b0bcafc88ff064e0') in 0.0014051 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.849543 seconds.
-  path: Assets/FantasyValley/Scenes/FantasyValley_Demo.unity
-  artifactKey: Guid(293249fcb43eaa142a51ef0a7f745084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FantasyValley/Scenes/FantasyValley_Demo.unity using Guid(293249fcb43eaa142a51ef0a7f745084) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d14bca02d2779aba01cc428c9cbee78') in 0.0017327 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
+Prepare: number of updated asset objects reloaded= 0
